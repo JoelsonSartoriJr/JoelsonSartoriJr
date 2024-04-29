@@ -7,7 +7,7 @@ I have a bachelor's degree in Information Systems from FURG and am currently pur
 - **AI Algorithm Optimization**: Focusing on mathematical optimization of AI algorithms.
 
 ## Personal Interests
-In my free time, I enjoy playing volleyball, biking, and taking care of my cat, Kilua.
+In my free time, I enjoy playing volleyball, biking, and taking care of my cat, Kilua 🐯.
 
 ## Technologies and Tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/> <img
